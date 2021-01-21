@@ -10,15 +10,15 @@ The Official Testnet addresses are:
 
 ## Binance Smart Chain (Testnet)
 
-- BEP-20 Token:     0xAA44C033BcDADC9e826fF5B96DBeB0594e9f3735
+- BEP-20 Token:        0xAA44C033BcDADC9e826fF5B96DBeB0594e9f3735
 - Master Contract:  0xB294175aa3058061A22F649E8617A176F236937B
-- Oracle Contract:  Being deployed
+- Oracle Contract:   Being deployed
 
 ## Ethereum Block Chain (Testnet)
 
-- ERC-20 Token:     Being deployed
+- ERC-20 Token:        Being deployed
 - Master Contract:  Being deployed
-- Oracle Contract:  Being deployed
+- Oracle Contract:   Being deployed
 
 # Contribute
 
