@@ -29,4 +29,5 @@ To report bugs within this package, create an issue in this repository. For secu
 [GNU General Public License v3.0 (c) 2018 Fragments, Inc.](./LICENSE)
 
 
-Wrapp3d © 2021
+
+Wrapp3d, Inc. © 2021
