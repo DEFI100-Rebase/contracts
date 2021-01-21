@@ -10,8 +10,8 @@ The Official Testnet addresses are:
 
 ## Binance Smart Chain (Testnet)
 
-- BEP-20 Token:        0xAA44C033BcDADC9e826fF5B96DBeB0594e9f3735
-- Master Contract:  0xB294175aa3058061A22F649E8617A176F236937B
+- BEP-20 Token:        [0xAA44C033BcDADC9e826fF5B96DBeB0594e9f3735](https://testnet.bscscan.com/token/0xAA44C033BcDADC9e826fF5B96DBeB0594e9f3735)
+- Master Contract:  [0xB294175aa3058061A22F649E8617A176F236937B](https://testnet.bscscan.com/address/0xB294175aa3058061A22F649E8617A176F236937B)
 - Oracle Contract:   Being deployed
 
 ## Ethereum Block Chain (Testnet)
@@ -27,3 +27,6 @@ To report bugs within this package, create an issue in this repository. For secu
 ## License
 
 [GNU General Public License v3.0 (c) 2018 Fragments, Inc.](./LICENSE)
+
+
+Wrapp3d © 2021
