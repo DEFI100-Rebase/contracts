@@ -5,7 +5,7 @@ MIT License
 
 Copyright (c) 2018 requestnetwork
 Copyright (c) 2018 Fragments, Inc.
-Copyright (c) 2020 Wrapp3d, Inc.
+Copyright (c) 2021 Wrapp3d, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -620,3 +620,4 @@ contract Master is Ownable {
     }    
     
 }
+ 
