@@ -16,8 +16,8 @@ The Official Testnet addresses are:
 
 ## Ethereum Block Chain (Testnet)
 
-- ERC-20 Token:        Being deployed
-- Master Contract:  Being deployed
+- ERC-20 Token:        [0x5d91247f49e5f9eb05b948d638616f071d2abf00](https://rinkeby.etherscan.io/token/0x5d91247f49e5f9eb05b948d638616f071d2abf00)
+- Master Contract:  [0x844EF64449f70830cA706dC5914e4C230BBF943B](https://rinkeby.etherscan.io/address/0x844EF64449f70830cA706dC5914e4C230BBF943B)
 - Oracle Contract:   Being deployed
 
 # Contribute
