@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2020-12-19
-*/
-
 // SPDX-License-Identifier: MIT
 
 /*
